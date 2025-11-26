@@ -7,8 +7,7 @@ Atualmente estou aprimorando minhas habilidades em Python e Shell Script aplicad
 
 ## 🚀 Projetos
 
-### 🔹 1. Monitoramento via SSH (Python + Linux + Windows)
-Repositório: 
+### 🔹 1. Monitoramento via SSH (Python + Linux + Windows) 
 **Status:** Finalizado  
 **Descrição:**  
 Criado um ambiente virtual com 3 máquinas (2 servidores e 1 host Linux) conectadas em rede NAT com IPs fixos.  
