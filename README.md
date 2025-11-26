@@ -1,16 +1,68 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Jonas!
 
-<!--
-**JonasAS-Infra/JonasAS-Infra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Analista de Infraestrutura com experiência em ambientes Cloud, On Premise e Hibridos, atuando na admnistração de servidores Linux e Windows, virtualização, redes e automação de tarefas.  
+Atualmente estou aprimorando minhas habilidades em Python e Shell Script aplicado à administração de sistemas e criando uma base sólida de projetos práticos para evoluir na carreira de Cloud e SysAdmin.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos
+
+### 🔹 1. Monitoramento via SSH (Python + Linux + Windows)
+**Status:** Finalizado  
+**Descrição:**  
+Criado um ambiente virtual com 3 máquinas (2 servidores e 1 host Linux) conectadas em rede NAT com IPs fixos.  
+Desenvolvido um script em Python que se conecta via SSH nos servidores Linux e Windows para coletar:
+
+- Uso de CPU  
+- Uso de Memória  
+- Processamento e formatação da saída  
+- Exportação dos dados para arquivo `.txt`
+
+> **Tecnologias:** Python, Paramiko, Linux (CentOS), Windows Server, SSH, VMware
+
+Repositório do projeto: *(adicione aqui o link quando subir o projeto)*
+
+---
+
+### 🔹 2. Projeto 2 — Em desenvolvimento
+Em breve um novo projeto envolvendo automação, infraestrutura e Python será publicado aqui.  
+*(Quando iniciar, posso te ajudar a escrever a descrição técnica também.)*
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+- **Linux (RHEL / CentOS / Debian)**
+- **Windows Server / Active Directory**
+- **Python** (Automação, SSH, Scripts)
+- **Shell Script**
+- **VMware / Virtualização**
+- **Redes (DNS, DHCP, NAT)**
+- **Azure & AWS Cloud**  
+  - AWS Cloud Practitioner  
+  - Azure AZ-900  
+  - Em estudo: AWS SysOps / AWS Solutions Architect Associate
+
+---
+
+## 🎯 Objetivo do Portfólio
+Este repositório centraliza meus estudos e projetos aplicados ao mundo real, sempre voltados para:
+
+- Automação  
+- Infraestrutura  
+- Cloud  
+- Troubleshooting  
+- Aprendizado contínuo
+
+---
+
+## 📫 Contato
+Caso queira trocar ideias sobre infraestrutura, cloud ou automação:
+
+**LinkedIn:** https://www.linkedin.com/in/jonas-araújo-de-sousa-299220170/
+**E-mail:** jonasaraujodesousa@gmail.com
+
+---
+
+⭐ *Obrigado por visitar meu portfólio! Novos projetos serão adicionados em breve.*
+
