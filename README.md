@@ -8,7 +8,7 @@ Atualmente estou aprimorando minhas habilidades em Python e Shell Script aplicad
 ## 🚀 Projetos
 
 ### 🔹 1. Monitoramento via SSH (Python + Linux + Windows)
-Repositório: https://github.com/JonasAS-Infra/Monitoramento-ssh
+Repositório: 
 **Status:** Finalizado  
 **Descrição:**  
 Criado um ambiente virtual com 3 máquinas (2 servidores e 1 host Linux) conectadas em rede NAT com IPs fixos.  
@@ -21,13 +21,12 @@ Desenvolvido um script em Python que se conecta via SSH nos servidores Linux e W
 
 > **Tecnologias:** Python, Paramiko, Linux (CentOS), Windows Server, SSH, VMware
 
-Repositório do projeto: *(adicione aqui o link quando subir o projeto)*
+Repositório do projeto: https://github.com/JonasAS-Infra/Monitoramento-ssh
 
 ---
 
 ### 🔹 2. Projeto 2 — Em desenvolvimento
 Em breve um novo projeto envolvendo automação, infraestrutura e Python será publicado aqui.  
-*(Quando iniciar, posso te ajudar a escrever a descrição técnica também.)*
 
 ---
 
