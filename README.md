@@ -24,27 +24,31 @@ Repositório do projeto: https://github.com/JonasAS-Infra/Monitoramento-ssh
 
 ---
 
-### 🔹 2. Projeto 2 — Automação de Inventário de Servidores (Python)
-**Status:** Finalizado 
+### 🔹 2. Inventário Automático de Servidores (Python + Linux + Windows)
+**Status:** Finalizado  
 **Descrição:**  
-Script em Python que coleta informações de múltiplos servidores Linux e Windows (hostname, versão do kernel, uptime, versão do Windows etc.) usando paramiko e winrm.
-Foi criado um arquivo separado de hosts para permitir editar os alvos sem alterar o código.
+Criado um ambiente com 1 host Linux responsável por coletar informações de inventário de 4 servidores Linux e 1 Windows Server.
+Foi desenvolvido um script em Python que:
 
-Tecnologias: Python, Paramiko, WinRM, SSH, Windows Remote Management
+Lê automaticamente listas de hosts através de arquivos externos (hosts_linux.txt e hosts_win.txt)
 
-Funcionalidades:
+Conecta via SSH (Linux) e WinRM (Windows)
 
-Leitura dinâmica de hosts via arquivo TXT
+Coleta informações como:
 
-Conexão automática com Linux e Windows
+Nome do host
 
-Execução remota de comandos
+Versão do sistema
 
-Geração de arquivo de inventário com timestamp
+Tempo de atividade (uptime)
 
-Tratamento de erros integrado
+Trata e formata a saída
 
-Repositório do projeto:
+Gera um arquivo .txt com o inventário completo e datado
+
+Tecnologias: Python, Paramiko, WinRM, Linux (CentOS/Ubuntu), Windows Server, SSH, WinRM, VMware
+
+Repositório do projeto: https://github.com/JonasAS-Infra/Automa-o-de-Invent-rio-de-Servidores-Python-
 
 ---
 
@@ -52,9 +56,11 @@ Repositório do projeto:
 
 - **Linux (RHEL / CentOS / Debian)**
 - **Windows Server / Active Directory**
+- **Firewall Fortgate / Sophos**
+- **Backup - VEEAM / Acronis**
 - **Python** (Automação, SSH, Scripts)
 - **Shell Script**
-- **VMware / Virtualização**
+- **VMware /Citrix/ Hiper-V / Virtualização**
 - **Redes (DNS, DHCP, NAT)**
 - **Azure & AWS Cloud**  
   - AWS Cloud Practitioner  
