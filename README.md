@@ -36,17 +36,17 @@ Conecta via SSH (Linux) e WinRM (Windows)
 
 Coleta informações como:
 
-Nome do host
+- Nome do host
 
-Versão do sistema
+- Versão do sistema
 
-Tempo de atividade (uptime)
+- Tempo de atividade (uptime)
 
-Trata e formata a saída
+- Trata e formata a saída
 
-Gera um arquivo .txt com o inventário completo e datado
+- Gera um arquivo .txt com o inventário completo e datado
 
-Tecnologias: Python, Paramiko, WinRM, Linux (CentOS/Ubuntu), Windows Server, SSH, WinRM, VMware
+> **Tecnologias: Python, Paramiko, WinRM, Linux (CentOS/Ubuntu), Windows Server, SSH, WinRM, VMware
 
 Repositório do projeto: https://github.com/JonasAS-Infra/Automa-o-de-Invent-rio-de-Servidores-Python-
 
