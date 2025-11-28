@@ -52,6 +52,30 @@ Repositório do projeto: https://github.com/JonasAS-Infra/Automa-o-de-Invent-rio
 
 ---
 
+### 🔹 3. Coleta de falhas de login (Python + Linux + Windows)
+**Status:** Finalizado  
+**Descrição:**  
+Criado um ambiente com múltiplos servidores (Linux e Windows) para coletar e registrar os últimos eventos de falhas de autenticação.
+O script em Python se conecta via SSH (Linux) e WinRM (Windows) para consultar:
+
+- Falhas de login em /var/log/secure (CentOS/RHEL)
+
+- Falhas de login no auth.log (Ubuntu/Debian)
+
+- Eventos de falha de autenticação no Windows (EventID 4625)
+
+- Exportação dos resultados para arquivos .txt dentro da pasta log/
+
+- Tratamento para servidores sem eventos recentes
+
+- Suporte a múltiplos hosts usando arquivos externos (hosts_linux.txt e hosts_win.txt)
+
+> **Tecnologias:** Python, Paramiko, WinRM, Linux (CentOS/Ubuntu), Windows Server, SSH, WinRM, VMware
+
+Repositório do projeto: 
+
+---
+
 ## 🛠️ Tecnologias & Ferramentas
 
 - **Linux (RHEL / CentOS / Debian)**
@@ -68,6 +92,7 @@ Repositório do projeto: https://github.com/JonasAS-Infra/Automa-o-de-Invent-rio
   - Em estudo: AWS SysOps / AWS Solutions Architect Associate
 
 ---
+
 
 ## 🎯 Objetivo do Portfólio
 Este repositório centraliza meus estudos e projetos aplicados ao mundo real, sempre voltados para:
