@@ -72,7 +72,7 @@ O script em Python se conecta via SSH (Linux) e WinRM (Windows) para consultar:
 
 > **Tecnologias:** Python, Paramiko, WinRM, Linux (CentOS/Ubuntu), Windows Server, SSH, WinRM, VMware
 
-Repositório do projeto: 
+Repositório do projeto: https://github.com/JonasAS-Infra/Coleta-de-falhas-de-login-Python-Linux-Windows-
 
 ---
 
