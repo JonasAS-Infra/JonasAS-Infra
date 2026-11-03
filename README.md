@@ -87,9 +87,11 @@ Repositório do projeto: https://github.com/JonasAS-Infra/Coleta-de-falhas-de-lo
 - **VMware /Citrix/ Hiper-V / Virtualização**
 - **Redes (DNS, DHCP, NAT)**
 - **Azure & AWS Cloud**  
-  - AWS Cloud Practitioner  
+  - AWS Cloud Practitioner
+  - AWS Solutions Architect associate
+  - RHCSA 
   - Azure AZ-900  
-  - Em estudo: AWS SysOps / AWS Solutions Architect Associate
+  - Em estudo: AZ400, AZ104, RHCE
 
 ---
 
